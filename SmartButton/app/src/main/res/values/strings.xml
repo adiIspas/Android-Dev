@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SmartButton</string>
+    <string name="action_settings">Seteaza-ti partenerul</string>
+    <string name="message_text">ZAMBESTE! :)</string>
+    <string name="button_text">Apasa</string>
+</resources>
